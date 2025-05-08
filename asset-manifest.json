@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TAB-101/static/css/main.f326219a.css",
+    "main.js": "/TAB-101/static/js/main.c3c4d097.js",
+    "index.html": "/TAB-101/index.html",
+    "main.f326219a.css.map": "/TAB-101/static/css/main.f326219a.css.map",
+    "main.c3c4d097.js.map": "/TAB-101/static/js/main.c3c4d097.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f326219a.css",
+    "static/js/main.c3c4d097.js"
+  ]
+}
